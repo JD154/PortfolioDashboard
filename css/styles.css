@@ -1,0 +1,18 @@
+:root{
+    --bg-main-color: rgb(241, 244, 245);
+    --bg-nav-color: #3e8ef7;
+    --text-main-color: #37474f;
+    --text-second-color: rgba(118,131,143,.9);
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: var(--bg-main-color);
+}
+
+.header-wrap{
+    height: 3em;
+    background-color: var(--bg-nav-color);
+}
+
